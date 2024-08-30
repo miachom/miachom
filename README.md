@@ -2,7 +2,7 @@
 
 - 👋 Hello, I am Mingkee and I am a researcher.
 
-- 👀 I have a special interest in computational biology, genomics and transcriptomics.
+- 👀 I interested in computational biology, genomics and transcriptomics.
   
 - 🔍 I like finding biological answers in big data.
 
