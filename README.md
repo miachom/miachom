@@ -6,7 +6,5 @@
   
 - 🔍 I like finding biological answers in big data.
 
--  🌱 I’m currently learning machine-learning techniques to apply to genomics data.
-
 - 😄 Pronouns: she/her
 
